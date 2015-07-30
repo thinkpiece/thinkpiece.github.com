@@ -6,10 +6,6 @@
 2. All post files must begin with YAML Front Matter
 3. Commit and push to the remote repository
 
-	$ git add -A
-	$ git commit -m "add a post on yyyy-mm-dd"
-	$ git push
-
 ## Useful Links
 
 - [Jekyll]
