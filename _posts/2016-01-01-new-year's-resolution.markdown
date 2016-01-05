@@ -17,10 +17,11 @@ year that I have to focus on the sucessful business.
 
 
 Here are my 2016 resolutions:
-  * Read for at least 25 minutes a day
-  * Do at least 3 exercises a week
-  * Writing 2 journal papers on my previous research (simulation, SoC)
-  * The new open office by the middle of this year
-  * Establish fully completed Vision SoC for sucessful business
-  * Understand Deep Learning
+
+* Read for at least 25 minutes a day
+* Do at least 3 exercises a week
+* Writing 2 journal papers on my previous research (simulation, SoC)
+* The new open office by the middle of this year
+* Establish fully completed Vision SoC for sucessful business
+* Understand Deep Learning
 
