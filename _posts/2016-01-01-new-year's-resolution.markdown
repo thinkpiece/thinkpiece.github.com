@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "2016 New Year's Resolution"
+date:   2016-01-01 17:41:31
+categories: personal
+---
+
 With the start of a new year, many people set their New Year's resolution
 traditionally. Well, me too. Looking backward on my resolutions from
 the last year, I've realized that I'd changed a lot so far. First of all,
