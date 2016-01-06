@@ -1,8 +1,8 @@
 # Site settings
-title: JY Tech Blog
+title: JY thinkpiece
 email: thinkpiece@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some thoughts on machine learning software and hardware design.
+  Some thoughts pass me by
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.jyp.me" # the base hostname & protocol for your site
 twitter_username: jparktweet
@@ -10,3 +10,11 @@ github_username:  thinkpiece
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+relative_permalinks: false
+
+page_list:
+  about: '/about'
+  archive: '/archive'
+  feed: '/feed.xml'
