@@ -214,6 +214,9 @@
     &:visited {
         color: $grey-color-dark;
     }
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 /**
