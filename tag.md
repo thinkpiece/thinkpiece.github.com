@@ -6,7 +6,7 @@ permalink: /tag/
 
 Click on a tag to see relevant list of posts.
 
-<ul class="tags-list">
+<ul class="tag-list">
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   <li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
