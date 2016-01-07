@@ -207,12 +207,11 @@
     color: $grey-color;
     font-size: $small-font-size;
 }
-
 .read-more a {
     color: $grey-color;
 
     &:visited {
-        color: darken($text-color, 15%);
+        color: $grey-color-dark;
     }
 }
 
