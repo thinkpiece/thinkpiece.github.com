@@ -208,12 +208,11 @@
  * Summary
  */
 .summary-header {
-    margin-bottom: ($spacing-unit / 2);
-}
-.summary-header > h2 {
+    > h2 {
     display: inline-block;
     margin-top: ($spacing-unit / 2);
     margin-bottom: ($spacing-unit / 2);
+    }
 }
 .read-more {
     color: $grey-color;
