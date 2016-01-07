@@ -210,6 +210,10 @@
 
 .read-more a {
     color: $grey-color;
+
+    &:visited {
+        color: darken($text-color, 15%);
+    }
 }
 
 /**
