@@ -174,7 +174,6 @@
 }
 
 .post-meta {
-    font-family: monospace;
     font-size: $small-font-size;
     color: $grey-color;
 }
@@ -207,6 +206,7 @@
 .read-more {
     color: $grey-color;
     font-size: $small-font-size;
+    text-indent: 0.6rem;
 }
 .read-more a {
     color: $grey-color;
