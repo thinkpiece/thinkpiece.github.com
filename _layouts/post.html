@@ -14,7 +14,7 @@ comments: true
   </article>
 
   <ul class="tag-list">
-    TAGS {% for tag in page.tags %}
+    TAG {% for tag in page.tags %}
     <li><a href="/tag/#{{ tag }}">{{ tag | downcase }}</a></li>
     {% endfor %}
   </ul>
