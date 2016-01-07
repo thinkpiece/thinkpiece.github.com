@@ -3,7 +3,6 @@ layout: post
 title:  "Moving to GitHub pages"
 date:   2015-09-21 11:01:31
 categories: personal
-comments: true
 ---
 
 For the past few years, I've posted several articles on several blog services
