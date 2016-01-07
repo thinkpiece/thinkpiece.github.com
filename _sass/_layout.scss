@@ -232,6 +232,10 @@
 /**
  * Tags
  */
+.tag-list {
+    font-family: monospace;
+    font-size: $small-font-size;
+}
 .tag-list li {
     display:inline;
     padding:0 4px;
