@@ -3,6 +3,7 @@
     <h2 class="post-title">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     </header>
     <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.content | strip_html | truncatewords: 30 }}</a></p>
 </div>
