@@ -9,13 +9,8 @@ author: Junyoung Park
 twitter_username: jparktweet
 github_username:  thinkpiece
 
-# Build settings
+# Markdown engine
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
-relative_permalinks: false
 
-page_list:
-  about: '/about'
-  archive: '/archive'
-  feed: '/feed.xml'
+permalink: /:year/:month/:day/:title
