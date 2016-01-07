@@ -183,15 +183,12 @@
     font-size: $small-font-size;
     color: $grey-color;
 }
+
 /**
  * Posts
  */
 .post-header {
     margin-bottom: $spacing-unit;
-}
-
-.post-header > h2 {
-    display: inline-block;
 }
 
 .post-title {
@@ -207,6 +204,15 @@
     text-indent: 0.6rem;
 }
 
+/**
+ * Summary
+ */
+.summary-header {
+    margin-bottom: ($spacing-unit/2);
+}
+.summary-header > h2 {
+    display: inline-block;
+}
 .read-more {
     color: $grey-color;
     font-size: $small-font-size;
