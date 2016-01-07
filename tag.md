@@ -1,6 +1,6 @@
----
-layout: page
-title: Posts by tag
+--
+-layout: page
+title: Tag
 permalink: /tag/
 ---
 
@@ -20,12 +20,12 @@ Click on a tag to see relevant list of posts.
   {% assign posts = tag | last %}
 
 <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
-<ul>
+<ul class="post-list">
 {% for post in posts %}
   {% if post.tags contains t %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    <span class="post-meta">{{ post.date | date: "%B %-d, %Y"  }}</span>
   </li>
   {% endif %}
 {% endfor %}
