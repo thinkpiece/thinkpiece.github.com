@@ -19,13 +19,13 @@ Click on a tag to see relevant list of posts.
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
+<h4><a name="{{t | downcase | replace:" ","-" }}"></a><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
 <ul class="post-list">
 {% for post in posts %}
   {% if post.tags contains t %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="post-meta">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y"  }}</span>
   </li>
   {% endif %}
 {% endfor %}
