@@ -14,8 +14,9 @@ tags: [research]
 
 > **Fill Factor?** Percentage of a photosite. (sensitive to light) 즉, 빛을 감지하는 면적의 비율을 가리킨다. Fill Factor가 0.75라고 하면, 센서의 면적에서 75%가 빛을 받아들이는데 사용된다는 뜻. Fill Factor가 높을수록 같은 면적의 센서로 더 많은 빛을 받아들일 수 있기 때문에, 더 좋은 감도의 센서라 할 수 있다. 따라서 센서를 디자인하는 입장에서는 Fill Factor가 높도록 설계하는 것이 유리하다.
 
+<figure>
 ![An example of image sensor that has 0.75 fill factor. ](http://cfile28.uf.tistory.com/image/177BC43E514CA9FF197FEA)
-
+</figure>
 
 CCD와 CMOS는 그 원리 상 Fill Factor에 차이가 발생하게 되는데, 이 때문에 최종적으로 얻어지는 디지털 이미지에서도 두 센서 간에 차이가 발생하게 된다.
 
