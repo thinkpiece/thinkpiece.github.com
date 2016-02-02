@@ -3,6 +3,7 @@ layout: post
 title: "SIFT(Scale Invariant Feature Transform) Overview"
 date: 2014-01-29 20:44:00
 tags: [research]
+comments: true
 ---
 
 Object Recognition에서 가장 유명한 알고리즘을 꼽으라고 하면, SIFT를 빼놓을 수 없다. SIFT는 *Scale-Invariant Feature Transform*의 약자로, 1999년 ICCV(International Conference on Computer Vision)에서 처음으로 발표되었다. Object Recognition을 연구한 사람이라면 대부분 들어봤을 David Lowe의 대표작이다.

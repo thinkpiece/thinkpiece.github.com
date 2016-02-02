@@ -3,6 +3,7 @@ layout: post
 title:  "CMOS and CCD Image Sensor Sensitivities from Fill Factor"
 date:   2013-03-23 04:11:00
 tags: [research]
+comments: true
 ---
 
 디지털 카메라가 발전된 역사를 보다보면, 예전에는 디지털 카메라 센서로 CCD가 사용되다가 어느 순간 CMOS로 대부분 전환되고 있음을 볼 수 있다. CCD로 얻은 사진이 보다 더 Film-like 한 색감을 얻을 수 있다고 주장하여 옛날 센서를 찾는 사람도 있지만, 대부분은 고감도의 이점 때문에 CMOS를 찾게 된다.

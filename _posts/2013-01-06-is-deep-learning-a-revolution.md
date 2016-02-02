@@ -3,6 +3,7 @@ layout: post
 title: "Is Deep Learning a revolution or not?"
 date: 2013-01-06 20:47:00
 tags: [research]
+comments: true
 ---
 
 Deep Learning의 전신이 되는 Neural Network는 본래 1950년 후반에 소개된 역사있는 학문이다. Frank Rosenblatt는 이 당시에 뇌를 모방하는 Perceptron(퍼셉트론)이란 이름의 Neural Network를 제안했는데, 기본적인 삼각형과 사각형 형태 정도를 구분할 수 있었다. 반응은 폭발적이었다. 하지만 오래가진 못했다.

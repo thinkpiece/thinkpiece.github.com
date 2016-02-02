@@ -4,6 +4,7 @@ title:  "2016 New Year's Resolution"
 date:   2016-01-01 17:41:31
 categories: personal
 tags: [essay]
+comments: true
 ---
 
 With the start of a new year, many people set their New Year's resolution
