@@ -3,6 +3,7 @@ layout: post
 title: "One-Eyed Bug Vision Helps Drone Land"
 date: 2016-01-20 17:05:00
 tags: [research]
+comments: true
 ---
 
 [IEEE Spectrum에 실린 Alexander Hellemans의 글](http://spectrum.ieee.org/automaton/robotics/aerial-robots/oneeyed-bug-vision-helps-drones-land)이다.
