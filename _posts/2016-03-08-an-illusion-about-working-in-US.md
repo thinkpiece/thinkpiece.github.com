@@ -1,20 +1,16 @@
 ---
 layout: post
 title: "What does it feel like to be fired from Google?"
-date: 2014-01-29 20:44:00
-tags: [research]
+date: 2016-03-08 15:21:00
+tags: [essay]
 comments: true
 ---
 
 Quora에 **What does it feel like to be fired from Google?** 이란 질문이 올라왔는데, 여기에 남긴 [Grigory Yakushev의 답변](https://www.quora.com/What-does-it-feel-like-to-be-fired-from-Google/answer/Grigory-Yakushev) 중 일부다.
 
 
-> 나는 왜 구글을 스스로 떠나지 않는지 질문을 받았다. 현재 구글로부터 받는 월급에 만족하고 있다고 말했다. 만약에 구글이 내가 일하는 것에 만족하지 않는다면 나를 해고할 수 있겠지만, 내 발로 나가진 않을 거라고 생각했다.
-
-
+> 나는 왜 구글을 스스로 떠나지 않는지 질문을 받았다. 현재 구글로부터 받는 월급에 만족하고 있다고 말했다. 만약에 구글이 내가 일하는 것에 만족하지 않는다면 나를 해고할 수 있겠지만, 내 발로 나가진 않을 거라고 생각했다.  
 > 그리고 3월부터 나는 PIP[^1]를 시작했다. 즉, 2달 안에 결과를 내야했다. 한 주가 지나자 내가 목표를 달성할 수 없을 것이라는 게 명확해졌고, 또다시 HR과 디렉터와 함께 이야기를 했다. 내 성과가 기대한 바에 못미치기 때문에, 어떠한 benefit이나 유예 기간 없이 해고될 것이라고 위협했다. 그들은 내가 별다른 노력도 기울이지 않고 회사 시스템을 시험해보고 있다고 생각했다.  
-
-
 > 결국 그들은 PIP를 기다려주지 않고 그 다음주에 나를 해고했다. 내가 구글에서 사용했던 기기와 뱃지를 반납하고, 내 매니저와 함께 빌딩을 걸어나왔다. 이 모든 게 10분만에 일어났다. 
 
 
