@@ -142,17 +142,20 @@ blockquote {
     border-left: 4px solid $brand-color;
     padding-left: $spacing-unit * 2;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+    margin-bottom: $spacing-unit * 2;
+    margin-top: $spacing-unit * 2;
 }
 
-blockquote p:before {
+blockquote p {
     position: absolute;
     left: -2em;
     top: 0;
     width: 5px;
     height: 5px;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
 }
 
 /**
