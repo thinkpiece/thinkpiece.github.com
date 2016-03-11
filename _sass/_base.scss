@@ -85,8 +85,11 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
-ul li, ol li {
-    margin-bottom: 0;
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
 }
 
 /**
