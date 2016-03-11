@@ -39,9 +39,14 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit;
 }
 
+blockquote {
+    padding-left: 2em;
+    position: relative;
+}
+
 blockquote p:before {
     position: absolute;
-    left: -40px;
+    left: -2em;
     top: 0;
     width: 5px;
     height: 5px;
@@ -80,11 +85,8 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+ul li, ol li {
+    margin-bottom: 0;
 }
 
 /**
