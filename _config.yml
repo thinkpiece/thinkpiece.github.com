@@ -14,3 +14,7 @@ markdown: kramdown
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title
+
+gems:
+  - jekyll-assets
+
