@@ -11,7 +11,7 @@ github_username:  thinkpiece
 
 # Markdown engine
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 permalink: /:year/:month/:day/:title
 
